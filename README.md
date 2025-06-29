@@ -47,8 +47,7 @@ This project conducts intelligent prediction research on solar flares based on m
    - Interpretability: Visualizes contributions of key magnetic structures via Grad-CAM.  
    - Generalization ability: Successfully validated with data from the 2023-2024 solar activity period.  
 3. **Publications**:  
-   - The research results are published in *The Astrophysical Journal Supplement Series*:  
-     \item [DOI: 10.3847/1538-4365/add149](https://doi.org/10.3847/1538-4365/add149)  
+   - The research results are published in *《The Astrophysical Journal Supplement Series》*:  [DOI: 10.3847/1538-4365/add149](https://doi.org/10.3847/1538-4365/add149)  
 
 
 ## Future Work  
