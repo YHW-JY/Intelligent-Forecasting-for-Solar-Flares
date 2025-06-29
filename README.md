@@ -30,7 +30,7 @@ This project conducts intelligent prediction research on solar flares based on m
    - Spatial dimension: Fuse high-resolution details of magnetograms.  
    - Temporal dimension: Construct magnetogram sequences with multi-time windows (1-24 hours prior).  
 2. **Deep Learning Model**:  
-   - Backbone network: 3D convolutional neural network (captures spatio-temporal features).  
+   - Backbone network: 3D convolutional neural network、Transformer (captures spatio-temporal features).  
    - Attention mechanism: Focuses on key regions such as magnetic neutral lines and strong gradient areas.  
 
 ### Key Technologies  
@@ -46,6 +46,9 @@ This project conducts intelligent prediction research on solar flares based on m
 2. **Model Advantages**:  
    - Interpretability: Visualizes contributions of key magnetic structures via Grad-CAM.  
    - Generalization ability: Successfully validated with data from the 2023-2024 solar activity period.  
+3. **Publications**:  
+   - The research results are published in *The Astrophysical Journal Supplement Series*:  
+     \item [DOI: 10.3847/1538-4365/add149](https://doi.org/10.3847/1538-4365/add149)  
 
 
 ## Future Work  
